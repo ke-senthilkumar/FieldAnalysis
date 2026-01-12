@@ -10,9 +10,9 @@ There are a few commercial software and Pylinac for Python available. This is a 
 
 Screen
 
-![Screen}(https://github.com/ke-senthilkumar/FieldAnalysis/blob/main/Interface.png)
+![Screen](https://github.com/ke-senthilkumar/FieldAnalysis/blob/main/Interface.png)
 
 
 PDF Report Sample
 
-![Report]*https://github.com/ke-senthilkumar/FieldAnalysis/blob/main/Report.png)
+![Report](https://github.com/ke-senthilkumar/FieldAnalysis/blob/main/Report.png)
