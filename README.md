@@ -6,7 +6,9 @@ In Radiotherapy, analysis of the Radiation Field size is important as it gives s
 2. Flatness
 3. Symmetry
 
-There are a few commercial software and Pylinac for Python available. This is a small attempt in .Net analysing.
+There are a few commercial software and Pylinac for Python available. This is a small attempt in .Net.
+
+!! Use only TIFF images  !!
 
 Screen
 
